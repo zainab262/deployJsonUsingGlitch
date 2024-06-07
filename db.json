@@ -19,21 +19,6 @@
       "id": "4",
       "title": "Fourth Post",
       "views": 450
-    },
-    {
-      "id": "5",
-      "title": "Fifth Post",
-      "views": 550
-    },
-    {
-      "title": "sixth post",
-      "views": 120,
-      "id": "g8FClx3"
-    },
-    {
-      "title": "sixth post",
-      "views": 120,
-      "id": "7"
     }
   ],
   "comments": [
@@ -62,8 +47,5 @@
       "text": "Awesome post!",
       "postId": "5"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
