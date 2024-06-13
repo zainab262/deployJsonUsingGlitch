@@ -14,3 +14,4 @@ This is boilerplate repository, which helps you deploy the Json in the Glitch
 - paste your repository there
 - within sometime, you wil get the url link, you can utliize as API link in your projects.
 
+Refer This [Video](https://youtu.be/PvS9AmP9jfo?si=y6htdOf15CRmcePh) For User Guidance
