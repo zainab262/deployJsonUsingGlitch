@@ -7,7 +7,8 @@ This is boilerplate repository, which helps you deploy the Json in the Glitch
 - install node packages (npm i)
 - change db.json as per your requirements
 - start the server, test it by doing some CRUD operations
-- if everything is fine, it is ready to deploy on the [Glitch](https://glitch.com/)
+- if everything is fine, it is ready to deploy on the [Glitch](https://glitch.com/),
+- Add, Commit and Push the code into the Github
 - signup in the Glitch, 
 - then click on New Project
 - then click on import from Github
