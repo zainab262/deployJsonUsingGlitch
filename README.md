@@ -18,3 +18,5 @@ This is boilerplate repository, which helps you deploy the Json in the Glitch
 Refer This [Video](https://youtu.be/PvS9AmP9jfo?si=y6htdOf15CRmcePh) For User Guidance
 
 If you want to deploy NodeJS,Mongo on Glitch, Fork This [Repo](https://github.com/ABVenu/deployNodeMongoUsingGlitch) and follow the above instructions
+
+JOSN Server Documentation [Link](https://github.com/typicode/json-server/tree/v0)
